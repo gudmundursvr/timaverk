@@ -9,4 +9,4 @@ for i in range(n):
     number1 = number2
     number2 = number3
     number3 = number_sum
-    print(number_sum, end=', ')
+    print(number_sum)
